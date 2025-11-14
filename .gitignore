@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Database migrations (keep structure, ignore generated files in CI)
+# migrations/
+
+# Downloaded voice files
+*.ogg
+*.mp3
+*.wav
