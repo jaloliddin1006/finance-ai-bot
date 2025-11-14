@@ -1,0 +1,3 @@
+"""
+Finance AI Bot Application
+"""
